@@ -1,1 +1,1 @@
-# Identificacion_Motor_DC
+# Identificacion Motor DC
